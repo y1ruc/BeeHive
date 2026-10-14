@@ -7,7 +7,7 @@ tools. Run it and pick a category, then a tool.
 python beehive.py
 ```
 
-## GUI
+## GUI (STILL WORK IN PROGRESS IN BETA RN)
 
 A modern PySide6 GUI is included. It keeps the honey/hex aesthetic, adds a
 category sidebar, searchable tool grid, resizable output console, and global
