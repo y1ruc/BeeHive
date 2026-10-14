@@ -1,0 +1,8 @@
+{
+  "concurrency": 8,
+  "delay": 0.0,
+  "name_mode": "prefix",
+  "name_prefix": "NUKED",
+  "name_file": "",
+  "theme": "honey"
+}
